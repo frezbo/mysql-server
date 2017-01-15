@@ -8,4 +8,4 @@
 
 Change the volume directory and db parameters as required
 
-####NB: Database cannot be crated without a root password and extra databases paramters must be passed while creating the database
+####NB: Database cannot be created without a root password and extra database parameters must be passed while creating the database
